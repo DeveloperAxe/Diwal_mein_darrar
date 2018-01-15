@@ -1,0 +1,7 @@
+The sensor_database.csv has the format
+
+CameraMaker;CameraModel;SensorWidth(mm)
+The sensor_database_detailed.csv
+
+CameraMaker;CameraModel;SensorDescription;SensorWidth(mm);SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
+T
